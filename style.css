@@ -1,0 +1,10 @@
+body{
+    background-size:cover;
+    background-position: 0, 0;
+}
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 30px;
+    color:darkmagenta;
+}
